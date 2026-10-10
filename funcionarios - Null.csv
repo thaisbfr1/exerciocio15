@@ -1,0 +1,23 @@
+id,nome,departamento,salario,lucro,ativo,data de nascimento
+101,Ana Silva,,5200.5,15400.0,True,1990-05-14
+102,Bruno Costa,TI,7800.0,0.0,True,1988-11-23
+103,Carla Oliveira,,6100.0,21300.5,True,1995-02-10
+104,Diego Martins,Marketing,4500.0,,False,1992-07-30
+105,Eduardo Santos,,6900.0,12000.0,True,1985-09-17
+106,Fernanda Lima,RH,4800.0,0.0,True,1993-12-05
+107,Gabriel Souza,Vendas,5900.0,18900.0,True,1997-04-18
+108,Helena Pereira,TI,8500.0,0.0,True,1991-01-25
+109,Igor Almeida,Operações,4100.0,5400.0,False,1989-08-14
+110,Juliana Ribeiro,Marketing,5300.0,9800.5,True,1994-06-21
+111,Lucas Ferreira,Vendas,6300.0,24500.0,True,1996-10-09
+112,Mariana Castro,Financeiro,7200.0,,True,1987-03-12
+113,Nicolas Barbosa,TI,6800.0,0.0,False,1998-11-03
+114,Patricia Mendes,RH,5100.0,0.0,True,1990-09-28
+115,Rodrigo Ramos,Operações,4300.0,6100.0,True,1993-05-19
+116,Sabrina Rocha,Vendas,5700.0,17200.0,True,1999-02-14
+117,Thiago Carvalho,TI,9200.0,0.0,True,1984-07-07
+118,Vanessa Dias,Marketing,4900.0,11300.0,True,1995-12-30
+119,William Teixeira,Financeiro,6500.0,13800.0,False,1991-04-02
+120,Yasmin Moreira,Vendas,6000.0,20100.0,True,1996-08-25
+121,Zeca Monteiro,Operações,4600.0,7500.0,True,1992-10-15
+122,Beatriz Farias,TI,7500.0,0.0,True,1997-03-01
